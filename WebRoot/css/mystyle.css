@@ -1,0 +1,87 @@
+body{
+	margin-top:40px;
+	background-color:#25304c;
+	color:#000;
+}
+.con{	
+	width:900px;
+	height:auto;
+	background-color:#fbf9e2;
+	position:relative;
+	border:20px solid #fbf9e2;
+	margin-top:70px;
+	border-bottom:none;
+}
+.content,.cont{
+	font-family:微软雅黑;
+	font-size:16px;
+	width:710px;
+	height:auto;
+	background-color:#cbe2ed;
+	border-radius:10px;
+	padding-left:40px;
+	padding:15px;
+}
+.tab{
+	width:110px;
+	height:auto;
+	background-color:#cbe2ed;
+	border-radius:10px;
+	padding-left:40px;
+	padding:15px;
+	margin-bottom:20px
+}
+.state{
+	position:absolute;
+	height:30px;
+	line-height:30px;
+	right:300px;
+}
+#change{
+	padding-left:500px;
+}
+.attribute{
+	 margin-top:8px;
+	 padding-left:20px
+}
+.time{
+	font-size:14px;
+}
+.update{
+	margin-top:7px;
+	float:right;
+	margin-right:10px;
+}
+.div1{
+	position:absolute;
+	left:500px;
+	bottom:40px;
+}
+.div2{
+	margin-bottom:20px;
+}
+.div3{
+	border:solid 5px #cbe2ed;
+	height:auto;
+	width:730px;
+	border-radius:10px;
+	margin-bottom:20px;
+}
+.box{
+	font-size:14px;
+	width:80px;
+	float:left;
+}
+.file{
+	width:355px;
+	float:left;
+	margin-bottom:10px;
+}
+.clear{
+	clear:both;
+}
+.warn{
+	 margin-top:20px;
+	 height:30px;
+	 line-height:30px;
+}
